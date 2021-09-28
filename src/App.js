@@ -9,7 +9,9 @@ var emojiDictionary = {
   "🎾": "Tennis",
   "🏏": "Cricket",
   "🏑": "Hockey",
-  "⛳": "Golf"
+  "⛳": "Golf",
+  "🏊‍♂️": "Swimming",
+  "🏸": "Badminton"
 };
 
 var emojisWeKnow = Object.keys(emojiDictionary);
